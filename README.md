@@ -1,2 +1,2 @@
 from Bio import Align
-Aligner= Align.PairwiseAligner(match_score = 1.0)
+Aligner= Al.PairwiseAligner(match_score = 1.0)
