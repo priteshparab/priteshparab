@@ -3,7 +3,7 @@
 
 ---
 
-# 🧬 About Me
+# About Me
 
 🔬 **Bioinformatics Enthusiast**  
 
