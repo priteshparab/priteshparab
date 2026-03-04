@@ -42,25 +42,6 @@ My main focus areas include:
 
 ---
 
-# 📈 GitHub Stats
-
-![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshparab&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priteshparab&layout=compact&theme=tokyonight)
-
----
-
-# 🌍 Connect With Me
-
-💼 GitHub  
-https://github.com/priteshparab
-
----
-
 # 🧠 Bioinformatics Philosophy
 
 > **"Genomics is the language of life. Bioinformatics helps us read it."**
