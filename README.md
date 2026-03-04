@@ -42,10 +42,10 @@ My main focus areas include:
 
 ---
 
-# 🧠 Bioinformatics Philosophy
+# Bioinformatics Philosophy
 
 > **"Genomics is the language of life. Bioinformatics helps us read it."**
 
 ---
 
-⭐ *Exploring biology through data and algorithms.*
+
