@@ -39,19 +39,32 @@ My main focus areas include:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-# 📊 Areas I Work On
 
-### 🧬 Genomics
-- DNA-Seq Analysis
-- Variant Calling
-- Genome Annotation
+---
 
-### 🧫 Transcriptomics
-- Bulk RNA-seq Analysis
-- Differential Gene Expression
-- Pathway Enrichment
+# 📈 GitHub Stats
 
-### 🔬 Single-Cell Genomics
-- scRNA-seq Processing
-- Cell Type Annotation
-- Tumor Microenvironment Analysis
+![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=priteshparab&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priteshparab&layout=compact&theme=tokyonight)
+
+---
+
+# 🌍 Connect With Me
+
+💼 GitHub  
+https://github.com/priteshparab
+
+---
+
+# 🧠 Bioinformatics Philosophy
+
+> **"Genomics is the language of life. Bioinformatics helps us read it."**
+
+---
+
+⭐ *Exploring biology through data and algorithms.*
